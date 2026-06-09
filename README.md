@@ -104,6 +104,5 @@ jupyter notebook project.ipynb
 **Ganesh Karli**
 
 * Data Analytics
-* Machine Learning
 * Business Intelligence
 
